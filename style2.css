@@ -1,4 +1,6 @@
-
+body{
+    background-color: purple;
+}
 
 .crystals{
     display: flex;
@@ -16,3 +18,8 @@
 img{
     width:50px;
 }
+p{
+    font-size: 20px;
+    font-style: bold;
+}
+    
